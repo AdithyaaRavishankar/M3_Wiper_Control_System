@@ -1,1 +1,3 @@
-
+# CAR_WIPER_CONTROL
+ 
+A wiper speed control system for an automotive wiper controls the operational speed of a wiper in accordance with rain conditions. The control system includes a rain sensor (30) detecting rain conditions to produce . an analog signal having an amplitude depending upon the detected rain conditions..A wiper is made up of a metal arm with one end pivoting and the other end having a long rubber blade attached. A motor, usually an electric motor, drives the arm, however pneumatic power is also utilised in some vehicles. The blade is swung back and forth across the glass, removing any water, any precipitation, or other obstructions to view. Speed is usually changeable on vehicles built after 1969, with various continuous speeds and often one or more interrupted settings. Many commercial cars employ one or more pantograph arms, while most personal autos use two synchronised radial-type arms.
