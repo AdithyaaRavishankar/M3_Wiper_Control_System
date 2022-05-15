@@ -11,3 +11,10 @@
 * Car is on ACC mode that means car turned off.
 
 ![pic 2](https://user-images.githubusercontent.com/86227942/168463000-3a097b0b-b015-4fd5-923b-b5b312529bdb.png)
+
+## 3. Button pressed for second time
+
+
+* Wiper turned on.
+
+![pic 3](https://user-images.githubusercontent.com/86227942/168463076-046d15a8-2d56-4ab1-80d6-9d3fadbb065d.png)
