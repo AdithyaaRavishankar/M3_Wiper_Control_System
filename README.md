@@ -26,7 +26,7 @@ This Wiper Speed Control System is utilised in all sorts of automobiles, and its
 ## Weakness 
 
 * capital cost is high.
-* It is not automatic
+* It is not automatic.
 
 ## Threats 
 
