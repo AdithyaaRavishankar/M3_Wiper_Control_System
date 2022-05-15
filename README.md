@@ -5,7 +5,7 @@ Wipers are designed and manufactured to remove water from a windshield. Most aut
 
 # BADGES
 
-[![Build-Linux](https://github.com/AdithyaaRavishankar/M3_Wiper_Control_System/actions/workflows/buildonlinux.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M3_Wiper_Control_System/actions/workflows/buildonlinux.yml)
+* Build On Linux [![Build-Linux](https://github.com/AdithyaaRavishankar/M3_Wiper_Control_System/actions/workflows/buildonlinux.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M3_Wiper_Control_System/actions/workflows/buildonlinux.yml)
 
 * Codiga - Static Analysis
 ![Quality](https://api.codiga.io/project/33516/score/svg)
