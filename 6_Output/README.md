@@ -18,3 +18,8 @@
 * Wiper turned on.
 
 ![pic 3](https://user-images.githubusercontent.com/86227942/168463076-046d15a8-2d56-4ab1-80d6-9d3fadbb065d.png)
+
+## 4. Button pressed for thrd time
+
+
+* Wiper turned off. 
